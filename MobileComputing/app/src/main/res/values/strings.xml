@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">The 4400 Questions</string>
+    <string name="newgame_button">NEW GAME</string>
+    <string name="continue_button">CONTINUE</string>
+    <string name="options_button">OPTIONS</string>
+    <string name="quit_button">QUIT GAME</string>
+    <string name="saveoptions_button">SAVE OPTIONS</string>
+    <string name="defaultoptions_button">DEFAULT OPTIONS</string>
+    <string name="sound_text">Sound</string>
+    <string name="timelimit_text">Time Limit</string>
+    <string name="autosave_text">Autosave</string>
+    <string name="difficulty_text">Difficulty</string>
+    <string name="easy_text">EASY</string>
+    <string name="hard_text">HARD</string>
+    <string name="OFF">OFF</string>
+    <string name="ON">ON</string>
+    <string name="choosecategory">You can choose the next category!</string>
+    <string name="mainMenu">MAIN MENU</string>
+</resources>
